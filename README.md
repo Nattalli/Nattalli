@@ -1,7 +1,7 @@
 <h2 align="center">Hi there 👋</h2>
 
 ### I'm Nataliia Zakharchuk,
-Python developer with almost 3 years of experience. I started my career as a backend developer and have evolved into a full-stack developer. My skill set includes:
+Python developer with 3 years of experience. I started my career as a backend developer and have evolved into a full-stack developer. My skill set includes:
 
 - **Backend:** Django, Django REST Framework
 - **Frontend:** React, basic Vue.js, JavaScript, CSS, HTML
